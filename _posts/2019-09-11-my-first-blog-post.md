@@ -1,5 +1,5 @@
 ---
-title: Learning Log #1
+title: "Learning Log #1"
 date: 2019-09-11
 ---
 
