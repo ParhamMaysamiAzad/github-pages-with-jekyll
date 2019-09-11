@@ -3,7 +3,6 @@ Today I just learned how to use Markdowns and HTML by completing the courses on 
 - use the # key to make headers in markdown
 -learn HTMl
 -with <htmp> and </htmp>
--with <h1> and etc.
 -with <body>
 -add themes
 I learned a lot more than that but that's way to much information for one blog. In summary, HTML is like making a sandwhich
